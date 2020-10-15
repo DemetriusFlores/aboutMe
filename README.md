@@ -1,2 +1,2 @@
 # aboutMe
-This is a class project using java script
+This is a class project using JavaScript
